@@ -4,7 +4,9 @@ export const portfolioData = {
   name: 'Rugandura Maurice', title: 'Software Engineering Student & Developer',
   email: 'mauricerugandura123@gmail.com', phone: '+250798729241', location: 'Rwanda',
   github: 'https://github.com/mauricerugandura', linkedin: 'https://www.linkedin.com/in/rugandura-maurice-974284384',
-  cv: `${baseUrl}cv/Rugandura-Maurice-CV.pdf`, profileImage: `${baseUrl}images/profile.jpeg`
+  cv: `${baseUrl}cv/Rugandura-Maurice-CV.pdf`,
+  cvPreview: `${baseUrl}cv/Rugandura-Maurice-CV.PNG`,
+  profileImage: `${baseUrl}images/profile.jpeg`
 }
 
 export const skills = [
